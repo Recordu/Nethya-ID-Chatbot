@@ -4,7 +4,7 @@
     "logo": "https://te.legra.ph/file/2fee644b6a1e7f5dae648.jpg",
     "repository": "https://github.com/TheLogicalGuy/nethya-id=chatbot",
     "env": {
-        "STRING_SESSION": {
+        "STRING": {
             "description": "Pyrogram String Session here",
             "required": true
         },
