@@ -1,4 +1,4 @@
-# Nethya-Id-chatbot
+# Nethya-Id-chatbot[API Based]
 Python Advance Chatbot that is deployble on TeleGram id.
 
 # About
