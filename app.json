@@ -2,7 +2,7 @@
     "name": "NethyaChatBot",
     "description": "Hello, I am Nethya An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
     "logo": "https://te.legra.ph/file/2fee644b6a1e7f5dae648.jpg",
-    "repository": "https://github.com/TheLogicalGuy/nethya-id=chatbot",
+    "repository": "https://github.com/Recordu/nethya-id=chatbot",
     "env": {
         "STRING": {
             "description": "Pyrogram String Session here",
